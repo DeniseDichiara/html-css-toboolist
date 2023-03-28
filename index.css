@@ -1,0 +1,12 @@
+header{
+    margin: 0px;
+}
+
+.main-title{
+    font-size: 40px;
+    font-weight: bold;
+}
+
+main{
+    background-color: #cecece;
+}
