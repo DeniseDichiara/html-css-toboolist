@@ -70,3 +70,23 @@ main{
 .triangle{
     font-size: medium;
 }
+
+.checkmark{
+    font-size: small;
+    background-color: white;
+    border-radius: 50%;
+    padding: 5px;
+    border: 2px solid red;
+}
+
+.text-option{
+    font-size: smaller;
+}
+
+.end-botton{
+    background-color: blue;
+    border-radius: 15px;
+    font-size: 10px;
+    color: white;
+    padding: 5px;
+}
