@@ -93,3 +93,26 @@ main{
     padding: 5px;
     border: 2px solid red;
 }
+
+.goals-botton{
+    background-color: rgb(154, 115, 214);
+    border-radius: 15px;
+    font-size: 10px;
+    color: white;
+    padding: 5px;
+}
+.recruiting-botton{
+    background-color: rgb(54, 177, 54);
+    border-radius: 15px;
+    font-size: 10px;
+    color: white;
+    padding: 5px;
+}
+
+.mobile-botton{
+    background-color: orange;
+    border-radius: 15px;
+    font-size: 10px;
+    color: white;
+    padding: 5px;
+}
