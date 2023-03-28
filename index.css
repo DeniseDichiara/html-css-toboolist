@@ -63,11 +63,7 @@ main{
     border: 2px solid lightgrey;
 }
 
-.options{
-    font: optional;
-}
-
-.option-new-task{
+.option{
     font-size: 25px;
 }
 
