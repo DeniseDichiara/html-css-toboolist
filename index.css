@@ -46,10 +46,11 @@ main{
 
 .botton1{
     background-color: aqua;
-    height: 50px;
-    width: 100px;
+    height: 10px;
+    width: 10px;
     text-align: center;
-    border-radius: 50px;
+    border-radius: 5px;
+    padding: 5px;
 }
 
 .botton2{
