@@ -3,7 +3,7 @@
 }
 
 body{
-    background-color: aqua;
+    background-color: whitesmoke;
 }
 
 header{
@@ -23,7 +23,7 @@ main{
     margin: 50px 250px 10px;
     padding: 100px 50px 5px;
     height: 750px;
-    background-color: #be5353;
+    background-color: white;
 }
 
 .second-container{
