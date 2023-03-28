@@ -1,10 +1,13 @@
 header{
-    margin: 0px;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
 }
 
 .header-title{
     font-size: 40px;
     font-weight: bold;
+    text-align: center;
 }
 
 main{
