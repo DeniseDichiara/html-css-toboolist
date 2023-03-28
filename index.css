@@ -2,19 +2,26 @@
     font-family: 'Roboto', sans-serif;
 }
 
+body{
+    background-color: aqua;
+}
+
 header{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    background-color: white
 }
 
 .header-title{
-    font-family: ;
     font-size: 40px;
     font-weight: bold;
     text-align: center; /*allineare testo a logo*/
 }
 
 main{
+    margin: 100px 250px 25px;
+    padding: 100px 50px 5px;
+    height: 750px;
     background-color: #cecece;
 }
