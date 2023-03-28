@@ -68,6 +68,9 @@ main{
 }
 
 .option-new-task{
-    font-size: medium;
+    font-size: 25px;
+}
 
+.triangle{
+    font-size: medium;
 }
