@@ -25,3 +25,8 @@ main{
     height: 750px;
     background-color: #be5353;
 }
+
+.main-container{
+    padding: 5px 25px 150px;
+    background-color: darkorange;
+}
